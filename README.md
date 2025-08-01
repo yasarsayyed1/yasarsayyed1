@@ -41,7 +41,7 @@ I’m a **DevOps Engineer** passionate about building **cloud-native solutions**
 > A web tool to **generate Dockerfiles, Kubernetes Manifests, and GitLab CI/CD pipelines** from any GitHub repository in seconds.
 
 
-**Tech Stack**: HTML, Bootstrap, JavaScript, Prism.js  
+**Tech Stack**: Python , Flask, HTML, Bootstrap, JavaScript, Prism.js  
 
 ---
 
