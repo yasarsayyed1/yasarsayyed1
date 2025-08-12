@@ -44,6 +44,21 @@ I’m a **DevOps Engineer** passionate about building **cloud-native solutions**
 **Tech Stack**: Python , Flask, HTML, Bootstrap, JavaScript, Prism.js  
 
 ---
+### 🔒 Docker Image Vulnerability Scanner
+A web-based security tool for scanning Docker images and containers for vulnerabilities.
+
+**Tech Stack:** Python, Flask, Trivy, Bootstrap, JavaScript
+
+**Key Features:**
+- Image vulnerability scanning
+- Real-time scan results
+- Detailed vulnerability reports
+- Support for public and private registries
+- Modern responsive UI
+
+**Status:** Active Development (2025)
+[View Project](https://docker-scanner-app-1.onrender.com/)
+---
 
 ### **Health-Care-System**
 **[View Repository](https://github.com/yasarsayyed1/Health-Care-System)**  
